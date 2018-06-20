@@ -2,10 +2,10 @@
 
 # Hibernate 5.2
 Classes
-<a href="https://raw.githubusercontent.com/lenokp21/BC/master/hibernate/classes/util/HibernateUtil.java">HibernateUtil.java</a>
+<br><a href="https://raw.githubusercontent.com/lenokp21/BC/master/hibernate/classes/util/HibernateUtil.java">HibernateUtil.java</a>
 
 Configuração
-<a href="https://raw.githubusercontent.com/lenokp21/BC/master/hibernate/classes/configura%C3%A7%C3%A3o/hibernate.cfg.xml">hibernate.cfg.xml</a>
+<br><a href="https://raw.githubusercontent.com/lenokp21/BC/master/hibernate/classes/configura%C3%A7%C3%A3o/hibernate.cfg.xml">hibernate.cfg.xml</a>
 
 # Maven
 
