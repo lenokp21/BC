@@ -9,5 +9,5 @@ Configuração
 
 # Maven
 
-<p>Dependencias Hibernate 5.2</p>
-<a href="https://raw.githubusercontent.com/lenokp21/BC/master/hibernate/maven/dependencias/pom.xml">pom.xml</a>
+Dependencias Hibernate 5.2
+<br><a href="https://raw.githubusercontent.com/lenokp21/BC/master/hibernate/maven/dependencias/pom.xml">pom.xml</a>
