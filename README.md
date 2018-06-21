@@ -1,6 +1,6 @@
 # Base de Conhecimento
 
-# Hibernate 5.2
+# Hibernate 5.0
 Classes
 <br><a href="https://raw.githubusercontent.com/lenokp21/BC/master/hibernate/classes/util/HibernateUtil.java">HibernateUtil.java</a>
 
