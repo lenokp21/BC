@@ -1,6 +1,6 @@
 # Base de Conhecimento
 
-# Hibernate 5.0
+# Hibernate 5.1.0
 Classes
 <br><a href="https://raw.githubusercontent.com/lenokp21/BC/master/hibernate/classes/util/HibernateUtil.java">HibernateUtil.java</a>
 
@@ -14,6 +14,9 @@ Dependencias Hibernate 4.0
 
 Dependencias Hibernate 5.0
 <br><a href="https://raw.githubusercontent.com/lenokp21/BC/master/hibernate/maven/dependencias/pom_hibernate5-0.xml">pom.xml</a>
+
+Dependencias Hibernate 5.1.0
+<br><a href="https://raw.githubusercontent.com/lenokp21/BC/master/hibernate/maven/dependencias/pom_hibernate5-1-0.xml">pom.xml</a>
 
 Dependencias Hibernate 5.2 -- NÃO FUNCIONA.
 <br><a href="https://raw.githubusercontent.com/lenokp21/BC/master/hibernate/maven/dependencias/pom.xml">pom.xml</a>
