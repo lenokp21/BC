@@ -9,9 +9,9 @@ Configuração
 
 # Maven
 
-Dependencias Hibernate 5.2
+Dependencias Hibernate 4.0
+<br><a href="https://raw.githubusercontent.com/lenokp21/BC/master/hibernate/maven/dependencias/pom_hibernate4-0.xml">pom.xml</a>
+
+Dependencias Hibernate 5.2 -- NÃO FUNCIONA.
 <br><a href="https://raw.githubusercontent.com/lenokp21/BC/master/hibernate/maven/dependencias/pom.xml">pom.xml</a>
 
-<?php
-echo "Teste";
-?>

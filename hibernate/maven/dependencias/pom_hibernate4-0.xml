@@ -1,0 +1,22 @@
+	<!-- Dependencias Maven Hibernate 4.0 -->
+	
+	<dependency>
+		<groupId>org.hibernate</groupId>
+		<artifactId>hibernate-core</artifactId>
+		<version>4.0.1.Final</version>
+	</dependency>
+	<dependency>
+		<groupId>org.hibernate</groupId>
+		<artifactId>hibernate-entitymanager</artifactId>
+		<version>4.0.1.Final</version>
+	</dependency>
+	<dependency>
+		<groupId>mysql</groupId>
+		<artifactId>mysql-connector-java</artifactId>
+		<version>5.1.38</version>
+	</dependency>
+	
+	<!-- Dependencias Maven Hibernate 4.0 -->
+	
+	OBS. 
+		1 - Funciona com Tomcat 8
