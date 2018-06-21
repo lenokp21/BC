@@ -21,3 +21,8 @@ Dependencias Hibernate 5.1.0
 Dependencias Hibernate 5.2 -- NÃO FUNCIONA.
 <br><a href="https://raw.githubusercontent.com/lenokp21/BC/master/hibernate/maven/dependencias/pom.xml">pom.xml</a>
 
+
+#FONTES
+
+Repositório MVN - Hibernate
+<br><a href="https://mvnrepository.com/search?q=hibernate">MVN repositório do hibernate</a>
